@@ -26,6 +26,6 @@ aoc2022d3-*.tar
 /tmp/
 
 
-**/.formatter.exs
+.formatter.exs
 **/.elixir_ls/
 **/test/
