@@ -28,3 +28,4 @@ aoc2022d3-*.tar
 
 **/.formatter.exs
 **/.elixir_ls/
+**/test/
