@@ -24,3 +24,7 @@ aoc2022d3-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+
+**/.formatter.exs
+**/.elixir_ls/
